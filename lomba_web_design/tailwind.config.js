@@ -5,15 +5,13 @@ module.exports = {
   ],
   theme: {
     extend: {
-      fontFamily : {
-        'Mono' : 'Roboto Mono',
-        'Poppins' : 'Poppins',
-        'Montserrat' : 'Montserrat',
-        'Inter' : 'Inter'
-
-
+      fontFamily: {
+        Mono: "Roboto Mono",
+        Poppins: "Poppins",
+        Montserrat: "Montserrat",
+        Inter: "Inter",
       },
     },
   },
   plugins: [],
-}
+};
